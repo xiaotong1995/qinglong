@@ -1,5 +1,5 @@
 # File: .github/workflows/
-name: 自动同步工作流程
+name: 自动同步jdco工作流程
 on:
   schedule:
     - cron: '5 8,20 * * *' 
